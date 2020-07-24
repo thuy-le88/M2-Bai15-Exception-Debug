@@ -1,3 +1,5 @@
+package thuchanh;
+
 import java.util.Scanner;
 
 public class LinearEquationResolver {
